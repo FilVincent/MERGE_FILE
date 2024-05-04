@@ -1,1 +1,3 @@
-this is a conflicting file
+This is some content
+This is some content
+This is a conflicting file
