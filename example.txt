@@ -1,1 +1,1 @@
- This is a different file altogether
+this is a conflicting file
